@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+}
+
+.one{
+    width: 100%;
+    height: 700px;
+    /* background-color: rgb(223, 180, 125); */
+    background-image: url('../Images/taj\ mahal.jpeg');
+    text-align: justify;
+    background-repeat: no-repeat;
+    background-position:top;
+    /* margin-bottom: 10px; */
+    background-attachment: scroll;
+    background-size: cover;
+   
+}
+
+.one h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 3px solid aqua;
+    color: #5bcc4c;
+    background: linear-gradient(30deg, rgba(106, 27, 109, 0.979), rgba(212, 15, 15, 0.781),rgba(60, 0, 128, 0.918));
+}
+
+.one p{
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    color: rgb(46, 46, 31);
+    /* background: linear-gradient(30deg, rgba(255, 166, 0, 0.678), rgba(255, 0, 0, 0.616),rgba(0, 128, 0, 0.582)); */
+
+}
+
+.two{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #a8a28873;
+   
+    background: linear-gradient(10deg, rgba(58, 43, 15, 0.253), rgba(156, 3, 3, 0.774),rgba(199, 203, 207, 0.562) rgb(129, 80, 129));
+}
+
+.test{
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+    color: rgba(138, 17, 17, 0.959);
+    /* border: 3px solid blue; */
+
+}
+
+.type{
+    list-style-type: none;
+}
+
+.type li{
+    display: inline;
+    padding: 30px;
+    /* border: 2px solid rgb(160, 105, 2); */
+    
+}
+
+.small{
+    width: 350px;
+    height: 300px;
+    /* border: 10px solid white; */
+    /* margin: 20px; */
+    border: 5px solid rgb(226, 240, 233);
+    border-radius: 10px;
+    
+    /* padding: 20px; */
+    
+
+}
